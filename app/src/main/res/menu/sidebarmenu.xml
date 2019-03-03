@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/account" android:title="Account" />
+    <item android:id="@+id/orders" android:title="Orders"/>
+    <item android:id="@+id/location" android:title="Location"/>
+    <item android:id="@+id/payment" android:title="Payment"/>
+>
+    <item android:id="@+id/postings" android:title="Postings"/>
+    <item android:id="@+id/help" android:title="Help"/>
+    <item android:id="@+id/TermsandConditions" android:title="Terms and Conditions"/>
+    <item android:id="@+id/logout" android:title="Logout"/>
+</menu>
